@@ -6,8 +6,3 @@
     src="https://www.canva.com/design/DAGWDSN2_nE/beNgGTsW9yO6oA7lmCYRGA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-
-<a href="https://www.canva.com/design/DAGWDSN2_nE/beNgGTsW9yO6oA7lmCYRGA/view?utm_content=DAGWDSN2_nE&utm_campaign=designshare&utm_medium=embeds&utm_source=link" 
-   target="_blank" rel="noopener">
-   Media system
-</a> de daviusa2024
