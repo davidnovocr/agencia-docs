@@ -23,7 +23,9 @@ nav:
   - Calendarios:
       - Procedimiento Estandar: Calendarios/calendario.md
       - Otros: Calendarios/calendarionuevo.md
-  - Prueba:
+      - Prueba2: intro.md
+  - Prueba: intro.md
+
 
 
 
