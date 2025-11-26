@@ -12,7 +12,6 @@ La ciencia es un sistema de saberes acumulados a través de la actividad humana.
     src="https://www.canva.com/design/DAGWDSN2_nE/beNgGTsW9yO6oA7lmCYRGA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGWDSN2_nE&#x2F;beNgGTsW9yO6oA7lmCYRGA&#x2F;view?utm_content=DAGWDSN2_nE&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Media system</a> de daviusa2024
 
 
 ### Objetividad
